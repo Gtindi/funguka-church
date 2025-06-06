@@ -1,6 +1,5 @@
 import React from 'react';
 // import { Link } from 'react-router-dom';
-
 import Header from "../components/About-header";
 import Intro from "../components/About-intro";
 import Count from "../components/Count";
